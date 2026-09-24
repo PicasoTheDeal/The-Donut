@@ -1,5 +1,9 @@
 # The-Donut
 
+ASCII based donut animation.
+
+```
+
                                           k;double sin()
                                        ,cos();main(){float A=
                                      0,B=0,i,j,z[1760];char b[
@@ -21,6 +25,8 @@
                                      ~::==!!!**********!!!==::-
                                        .,~~;;;========;;;:~-.
                                            ..,--------,*/
+
+```
 
 ## One of this got me into coding 🙂
 
