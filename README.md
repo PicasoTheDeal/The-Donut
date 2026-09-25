@@ -1,8 +1,10 @@
 # The-Donut
 
-ASCII based donut animation.
+ASCII based donut animation using C++ with with advanced math of matrices implementation.
 
-```
+###
+
+```c
 
                                           k;double sin()
                                        ,cos();main(){float A=
